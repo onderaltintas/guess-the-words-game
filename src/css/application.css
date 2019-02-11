@@ -1,0 +1,8 @@
+html,body,#mainDiv,#mainFrame{
+  position: absolute;
+  width:100%;
+  height:100%;
+  border: none;
+  margin:0;
+  padding:0;
+}
